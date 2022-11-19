@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 html,
 body {
   padding: 0;
@@ -13,6 +16,10 @@ a {
 
 * {
   box-sizing: border-box;
+}
+.CardItem {
+  max-width: 400px;
+  border: 2px solid grey;
 }
 
 @media (prefers-color-scheme: dark) {

@@ -1,0 +1,187 @@
+{
+	"food":
+	[
+		{
+			"id": 1,
+			"type_food": "appetizer",
+			"food_name": "Spicy Fishsauce Wings",
+			"food_desc": "Chicken wings fried with signature Vietnamese fishsauce",
+			"price": 7,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Spicy-Butterscotch-Wings_EXPS_THN16_196730_C06_15_4b-2.jpg?resize=696,696"
+			
+		},
+		{
+			"id": 2,
+			"type_food": "appetizer",
+			"food_name": "Beef Wellington Fried Wontons",
+			"food_desc": "a dumpling filled with minced beef, spices, and fried",
+			"price": 9,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/09/Beef-Wellington-Fried-Wontons_EXPS_THD18_66109_C08_03_2b.jpg?resize=700,700"
+			
+		},
+		{
+			"id": 3,
+			"type_food": "appetizer",
+			"food_name": "Ham and Swiss Sliders",
+			"food_desc": "Sliders made with scottished imported ham blanketed with fresh swiss cheese from the Wisconsin house of cheese",
+			"price": 6,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Caramelized-Ham-Swiss-Buns_EXPS_THFM22_141947_B09_23_4b.jpg?resize=700,700"
+			
+		},
+		{
+			"id": 4,
+			"type_food": "appetizer",
+			"food_name": "Buffalo Chicken Dip",
+			"food_desc": "Tortilla chips freshly imported from the outskirts of San Sebastian Bernal paired with our homemade buffalo flavored dip",
+			"price": 8,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Buffalo-Chicken-Dip_EXPS_FT21_34952_F_0115_1-2.jpg?resize=696,696"
+			
+		},
+		{
+			"id": 5,
+			"type_food": "appetizer",
+			"food_name": "Pepper Jelly Hogs in a Blanket",
+			"food_desc": "Jelly in the center, Green pepper on the outside. It is what it is",
+			"price": 3,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2021/01/Pepper-Jelly-Hogs-in-a-Blanket_EXPS_TOHFM21_227423_09_18_E_3b-1.jpg?resize=696,696"
+			
+		},
+		{
+			"id": 6,
+			"type_food": "appetizer",
+			"food_name": "Sausage Cream Cheese Dip",
+			"food_desc": "Have you ever tried sausage cream cheese dip before? This is a show-stopping party food that may seem unassuming at first, but you’ll find yourself positively addicted after your first bite! Just three ingredients, this dip is rich and creamy (thanks to the cream cheese) and immaculately flavored (thank you, sausage and Rotel!)",
+			"price": 7,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Super-Sausage-Dip_EXPS_FT21_37468_F_1119_1.jpg?resize=700,700"
+			
+		},
+		{
+			"id": 7,
+			"type_food": "appetizer",
+			"food_name": "Grilled Elote Flatbread",
+			"food_desc": "Flatbread that is grilled but with ELOTE!! The word “elote” means “corn cob” in Spanish, and Mexican Elote is grilled corn on the cob slathered in a mayo cream sauce and garnished",
+			"price": 9,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2021/03/Grilled-Elote-Flatbread_EXPS_RC21_257866_E02_18_5b-2.jpg?resize=696,696"
+			
+		},
+		{
+			"id": 8,
+			"type_food": "appetizer",
+			"food_name": "Ranchy Mushrooms",
+			"food_desc": "Grilled and glazed mushrooms with homemade ranch",
+			"price": 3,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2021/04/Ranch-Mushrooms_EXPS_TOHEDSCODR21_64053_E03_30_2b.jpg?resize=696,696"
+			
+		},
+		{
+			"id": 9,
+			"type_food": "appetizer",
+			"food_name": "Almond Bacon Cheese Crostini",
+			"food_desc": "Sliced and toasted from a smaller, round, finer-textured bread, more like a white bread baguette slapped with bacon, Wisconsin imported cheese, and Washington raised almonds",
+			"price": 0,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Almond-Bacon-Cheese-Crostini_EXPS_BMZ17_35468_D10_25_5b-1.jpg?resize=700,700"
+			
+		},
+		{
+			"id": 10,
+			"type_food": "entree",
+			"food_name": "Air-Fryer Bacon-Wrapped Filet Mignon",
+			"food_desc": "",
+			"price": 16,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2022/08/Bacon-Wrapped-Filets-with-Scotched-Mushrooms_EXPS_THCA21_133090_B02_24_5b_copy.jpg?fit=700,1024"
+			
+		},
+		{
+			"id": 11,
+			"type_food": "entree",
+			"food_name": "Habanero Raspberry Ribs",
+			"food_desc": "",
+			"price": 18,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2022/08/Habanero-Raspberry-Ribs_EXPS_HCA22_44337_DR_03_16_5b-2.jpg?fit=700,1024"
+			
+		},
+		{
+			"id": 12,
+			"type_food": "entree",
+			"food_name": "Scrum-Delicious Burgers",
+			"food_desc": "",
+			"price": 12,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Scrum-Delicious-Burgers_EXPS_CHMZ19_824_B10_30_2b-1.jpg?fit=700,1024"
+			
+		},
+		{
+			"id": 13,
+			"type_food": "entree",
+			"food_name": "Grilled Lobster Tails",
+			"food_desc": "",
+			"price": 22,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Grilled-Lobster-Tails_EXPS_DIYD19_84781_B05_01_1b-2.jpg?resize=700,700"
+			
+		},
+		{
+			"id": 14,
+			"type_food": "entree",
+			"food_name": "Buttery Grilled Shrimp",
+			"food_desc": "",
+			"price": 16,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Buttery-Grilled-Shrimp_EXPS_WRSM17_40166_B03_28_4b-14.jpg?resize=700,700"
+			
+		},
+		{
+			"id": 15,
+			"type_food": "entree",
+			"food_name": "Spicy Grilled Eggplant",
+			"food_desc": "",
+			"price": 14,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Spicy-Grilled-Eggplant_EXPS_SDAS17_48576_C04_06_4b-8.jpg?fit=700,1024"
+			
+		},
+		{
+			"id": 16,
+			"type_food": "entree",
+			"food_name": "Spiced Salmon",
+			"food_desc": "",
+			"price": 20,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Spiced-Salmon_EXPS_HRBZ16_25408_D09_07_4b-6.jpg?fit=700,1024"
+			
+		},
+		{
+			"id": 17,
+			"type_food": "entree",
+			"food_name": "Honey Chipotle Ribs",
+			"food_desc": "",
+			"price": 18,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps144412_PSG143429D03_04_11bC_RMS-3.jpg?fit=700,1024"
+			
+		},
+		{
+			"id": 18,
+			"type_food": "entree",
+			"food_name": "Crispy Sage Chicken Tenders",
+			"food_desc": "",
+			"price": 17,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps178764_SD153323D06_04_4b-2.jpg?resize=696,696"
+			
+		}
+	],
+	"drinks":
+	[
+		{
+			"id": 1,
+			"alcoholic": false,
+			"drink_name": "",
+			"drink_desc": "",
+			"price": 0,
+			"img": ""
+		},
+		{
+			"id": 1,
+			"alcoholic": true,
+			"drink_name": "Bloody Mary",
+			"drink_desc": "",
+			"price": 12,
+			"img": "https://www.tasteofhome.com/wp-content/uploads/2019/04/shutterstock_722064898.jpg?resize=800,800"
+		}
+	]
+	
+}
