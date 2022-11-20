@@ -16,6 +16,7 @@ export default function about() {
       </Head>
       <NavbarHeader />
       <main className={styles.main}>
+        <h1>Meet the head chef</h1>
       <span>
           <Image
             src="/imageMain.png"
